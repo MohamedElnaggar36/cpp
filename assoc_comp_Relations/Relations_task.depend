@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1637834383 source:c:\users\mohamed elnaggar\desktop\relations_task\main.cpp
+	<iostream>
+	<cstdlib>
+
