@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1637829171 source:c:\users\mohamed elnaggar\desktop\inheritance_task\main.cpp
+	<iostream>
+	<string.h>
+
+1637829473 source:c:\users\mohamed elnaggar\desktop\lab9\inheritance_task\main.cpp
+	<iostream>
+	<string.h>
+
