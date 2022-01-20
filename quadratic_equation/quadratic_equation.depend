@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1636823565 source:c:\users\mohamed elnaggar\desktop\question3\main.cpp
+	<iostream>
+	<cmath>
+	<cstdlib>
+	<cstring>
+
+1636823565 source:c:\users\mohamed elnaggar\desktop\iti\oop\lab 2\tasks source code\quadratic_equation\main.cpp
+	<iostream>
+	<cmath>
+	<cstdlib>
+	<cstring>
+
